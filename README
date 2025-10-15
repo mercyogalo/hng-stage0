@@ -1,0 +1,11 @@
+# HNG Backend Wizards - Stage 0
+
+## Live URL
+https://hng-stage0-production.up.railway.app/me
+
+## Run Locally
+```bash
+git clone https://github.com/<your-username>/hng-stage0.git
+cd hng-stage0
+npm install
+npm start or nodemon server.js
