@@ -23,7 +23,7 @@ app.get('/me', async (req, res)=>{
     console.log(catFact);
 
     const data={
-        status:"Success",
+        status:"success",
         user: {
         email: "ogalomercy@gmail.com",
         name: "Mercy Ogalo",
